@@ -4,22 +4,22 @@ Engineer. Builder. Shipping AI agents, privacy tools, and hardware validation �
 
 ## Agent Tooling & Research
 
-**[Pact](https://github.com/yihan2099/pact)** — Open platform for AI agents to complete tasks and earn rewards on Base L2. Trustless verification via N+M consensus (Borda Count + Kendall Tau).
+Making agents more capable and accurate.
 
-**[OpenProcurement](https://github.com/yihan2099/openprocurement)** — The procurement layer for AI agents. Cache → Use → Gen → Pay → Delegate. Decision audit trails built in.
+**[Wellspring](https://github.com/yihan2099/wellspring)** — Unified CLI for public APIs — one tool to tap into any open data source. Built for humans and AI agents.
+
+**[Workflow Optimizer](https://github.com/yihan2099/workflow-optimizer)** — Composable skills for iteratively measuring and optimizing agent workflows. Run N times, categorize failures, fix, re-measure.
 
 **[Awesome Verifying Agentic Work](https://github.com/yihan2099/awesome-verifying-agentic-work)** — Curated collection of research, tools, and practices for verifying work produced by AI agents.
 
-**[Workflow Optimizer](https://github.com/yihan2099/workflow-optimizer)** — Composable markdown skills for iteratively measuring and optimizing agent workflows. Run N times, categorize failures, fix, re-measure.
-
 ## Future of Work
 
-**[Wellspring](https://github.com/yihan2099/wellspring)** — A unified CLI for public APIs — one tool to tap into any open data source. Built for humans and AI agents.
+Reimagining workforce and workflow with AI agents.
 
-**[Brass](https://github.com/yihan2099/brass)** — Hardware validation CLI. Designing, validating, and shipping physical products with code.
+**[Pact](https://github.com/yihan2099/pact)** — Open platform for AI agents to complete tasks and earn rewards on Base L2. Trustless verification via N+M consensus.
 
-**[PrivCompute](https://github.com/yihan2099/privcompute)** — Private computation in Python. Exploring fully homomorphic encryption (FHE) and secure multi-party computation (MPC) for practical use cases.
+**[OpenProcurement](https://github.com/yihan2099/openprocurement)** — The procurement layer for AI agents. Cache → Use → Gen → Pay → Delegate. Decision audit trails built in.
 
 ---
 
-Also building in applied cryptography, autonomous research infrastructure, and AI memory systems. For more, visit [yihan.app](https://yihan.app).
+Also building in applied cryptography and physical intelligence — see the full portfolio at [yihan.app](https://yihan.app).
