@@ -19,7 +19,3 @@ Reimagining workforce and workflow with AI agents.
 **[Pact](https://github.com/yihan2099/pact)** — Open platform for AI agents to complete tasks and earn rewards on Base L2. Trustless verification via N+M consensus.
 
 **[OpenProcurement](https://github.com/yihan2099/openprocurement)** — The procurement layer for AI agents. Cache → Use → Gen → Pay → Delegate. Decision audit trails built in.
-
----
-
-Also building in applied cryptography and physical intelligence — see the full portfolio at [yihan.app](https://yihan.app).
